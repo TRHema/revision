@@ -1,1 +1,4 @@
 creating this file directly on remote repo and pulling it into local using git pull command
+This file created myself and making changes in my local by adding 
+Name:Hema TR
+Address:2208 Ridgewood dr,Mckinney
